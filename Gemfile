@@ -5,6 +5,7 @@ ruby "2.3.0"
 gem "autoprefixer-rails"
 gem "delayed_job_active_record"
 gem 'devise'
+gem 'devise-guests', '~> 0.5.0'
 gem "flutie"
 gem "high_voltage"
 gem "honeybadger"
